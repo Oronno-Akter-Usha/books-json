@@ -34,8 +34,8 @@
     {
         "id": 3,
         "bookName": "Where the Crawdads Sing",
-        "author": "https://i.ibb.co/ScBJbdD/pngwing-1.png",
-        "image": "crawdads.jpg",
+        "author": "Delia Owens",
+        "image": "https://i.ibb.co/ScBJbdD/pngwing-1.png",
         "review": "A mesmerizing blend of mystery, romance, and coming-of-age set against the backdrop of the North Carolina marsh. Owens' prose is lyrical and evocative, immersing the reader in the natural beauty of the marshland. The narrative unfolds at a languid pace, allowing for deep exploration of themes of isolation and belonging.",
         "totalPages": 384,
         "rating": 4.8,
@@ -50,8 +50,8 @@
     {
         "id": 4,
         "bookName": "Becoming",
-        "author": "https://i.ibb.co/7vT6cNX/kindpng-81724-1.png",
-        "image": "becoming.jpg",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co/7vT6cNX/kindpng-81724-1.png",
         "review": "An intimate and inspiring memoir that offers a rare glimpse into the life of one of the most iconic women of our time. Obama's storytelling is powerful and heartfelt, as she reflects on her journey from the South Side of Chicago to the White House. Becoming is not just a memoir; it's a testament to the importance of identity, integrity, and perseverance.",
         "totalPages": 448,
         "rating": 4.9,
@@ -98,8 +98,8 @@
     {
         "id": 7,
         "bookName": "1984",
-        "author": "https://i.ibb.co/2q0sHzb/kindpng-4945926-1.png",
-        "image": "1984.jpg",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/2q0sHzb/kindpng-4945926-1.png",
         "review": "A chilling dystopian novel that explores the dangers of totalitarianism and the erosion of individual freedom. Orwell's vision of a society controlled by surveillance and propaganda is eerily prescient, resonating with contemporary concerns about government overreach and mass manipulation. 1984 is a stark warning against the dangers of unchecked power and the importance of truth and autonomy.",
         "totalPages": 328,
         "rating": 4.7,
