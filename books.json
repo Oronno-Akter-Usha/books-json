@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "silence.jpg",
+        "review": "A gripping psychological thriller that keeps you guessing until the very end. The characters are intricately woven into a plot full of twists and turns. Michaelides masterfully creates an atmosphere of suspense and intrigue. The pacing is excellent, keeping the reader engaged from start to finish. The Silent Patient is a must-read for fans of the genre.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Mystery",
+        "tags": [
+            "Suspense",
+            "Psychological"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "id": 2,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "educated.jpg",
+        "review": "A poignant memoir that resonates deeply with the reader. Westover's journey from a survivalist family in Idaho to Cambridge University is both harrowing and inspiring. Her writing is honest and raw, capturing the complexities of family and identity. Educated is a testament to the power of education and resilience.",
+        "totalPages": 352,
+        "rating": 4.7,
+        "category": "Biography",
+        "tags": [
+            "Memoir",
+            "Education"
+        ],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "id": 3,
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "crawdads.jpg",
+        "review": "A mesmerizing blend of mystery, romance, and coming-of-age set against the backdrop of the North Carolina marsh. Owens' prose is lyrical and evocative, immersing the reader in the natural beauty of the marshland. The narrative unfolds at a languid pace, allowing for deep exploration of themes of isolation and belonging.",
+        "totalPages": 384,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Nature",
+            "Romance"
+        ],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+    },
+    {
+        "id": 4,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "becoming.jpg",
+        "review": "An intimate and inspiring memoir that offers a rare glimpse into the life of one of the most iconic women of our time. Obama's storytelling is powerful and heartfelt, as she reflects on her journey from the South Side of Chicago to the White House. Becoming is not just a memoir; it's a testament to the importance of identity, integrity, and perseverance.",
+        "totalPages": 448,
+        "rating": 4.9,
+        "category": "Biography",
+        "tags": [
+            "Memoir",
+            "Inspiration"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+    },
+    {
+        "id": 5,
+        "bookName": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "image": "night_circus.jpg",
+        "review": "A spellbinding tale of love and magic set within the enchanting world of a mysterious circus that only appears at night. Morgenstern's prose is rich and enchanting, painting vivid imagery that transports the reader to a world of wonder and intrigue. The characters are captivating, and the intricate plot keeps you guessing until the very end.",
+        "totalPages": 400,
+        "rating": 4.6,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Romance"
+        ],
+        "publisher": "Doubleday",
+        "yearOfPublishing": 2011
+    },
+    {
+        "id": 6,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "gatsby.jpg",
+        "review": "A timeless classic that delves into the decadence and disillusionment of the Jazz Age. Fitzgerald's prose is lyrical and evocative, capturing the essence of an era marked by excess and longing. The characters are complex and flawed, reflecting the contradictions of the American Dream. The Great Gatsby remains as relevant today as it was nearly a century ago.",
+        "totalPages": 180,
+        "rating": 4.4,
+        "category": "Classic",
+        "tags": [
+            "American Literature",
+            "Roaring Twenties"
+        ],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "id": 7,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "1984.jpg",
+        "review": "A chilling dystopian novel that explores the dangers of totalitarianism and the erosion of individual freedom. Orwell's vision of a society controlled by surveillance and propaganda is eerily prescient, resonating with contemporary concerns about government overreach and mass manipulation. 1984 is a stark warning against the dangers of unchecked power and the importance of truth and autonomy.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Dystopian",
+        "tags": [
+            "Politics",
+            "Social Commentary"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "id": 8,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "alchemist.jpg",
+        "review": "A philosophical fable that follows the journey of a young shepherd named Santiago as he seeks his personal legend. Coelho's narrative is imbued with wisdom and spirituality, offering profound insights into the nature of life and destiny. The Alchemist inspires readers to pursue their dreams and listen to the whispers of their hearts.",
+        "totalPages": 208,
+        "rating": 4.5,
+        "category": "Philosophical Fiction",
+        "tags": [
+            "Fable",
+            "Self-discovery"
+        ],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 1988
+    },
+    {
+        "id": 9,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "mockingbird.jpg",
+        "review": "A powerful exploration of racial injustice and moral growth in the American South. Lee's prose is poignant and compassionate, as she tells the story of Atticus Finch, a lawyer defending a black man wrongly accused of rape. To Kill a Mockingbird remains a timeless classic that challenges readers to confront prejudice and uphold principles of empathy and integrity.",
+        "totalPages": 336,
+        "rating": 4.8,
+        "category": "Classic",
+        "tags": [
+            "Social Issues",
+            "Southern Literature"
+        ],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    }
+]
